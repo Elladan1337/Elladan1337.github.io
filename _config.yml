@@ -19,14 +19,12 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Znalci v číslech
-email: kosatka.martin AT gmail DOT com
 description: >- # this means to ignore newlines until "baseurl:"
   Znalecká obec v České republice v číslech
 domain: znalcivcislech.cz
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://znalcivcislech.cz
-twitter_username: jekyllrb
-github_username:  jekyll
+github_username:  Elladan1337
 
 # Build settings
 theme: minima
