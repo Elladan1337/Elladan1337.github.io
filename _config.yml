@@ -27,7 +27,7 @@ url: https://znalcivcislech.cz
 github_username:  Elladan1337
 
 # Build settings
-theme: jekyll-theme-tactile
+theme: minima
 plugins:
 - jekyll-remote-theme
 
