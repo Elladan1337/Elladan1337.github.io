@@ -6,7 +6,6 @@ layout: default
 ---
 ### Něco se chystá...
 ---
-*Na počátku roku 2023 započalo Ministerstvo spravedlnosti zveřejňovat data v seznamech znalců, znaleckých kanceláří a znaleckých ústavů. Podívejme se spolu co skrývají*[^1]	
+*Na počátku roku 2023 započalo Ministerstvo spravedlnosti zveřejňovat data v seznamech znalců, znaleckých kanceláří a znaleckých ústavů. Podívejme se spolu co skrývají.*[^1]	
 
-[^1]: Obsah těchto webových stránek podléhá ochraně podle autorského zákona. Zejména se zakazuje vytěžování této webové stránky bez souhlasu publikaci Bulletinu pro znalecké právo a znalectví a jeho šéfredaktorovi Miroslavu Frýdkovi. 
-
+[^1]: Obsah těchto webových stránek podléhá ochraně podle autorského zákona. Zejména se zakazuje vytěžování této webové stránky bez souhlasu publikaci "Bulletin pro znalecké právo a znalectví"" a jeho šéfredaktorovi Miroslavu Frýdkovi. 
